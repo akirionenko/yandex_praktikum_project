@@ -59,7 +59,7 @@
 ## [Выпускной проект](https://github.com/akirionenko/yandex_praktikum_project/tree/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
 Анализ буткемп-проекта по области ритейл (результат оформляем в виде Презентации), проверяем результаты А/B тестирования и подтверждаем гипотезы, разрабатываем дашборд в Tableau Public. изучаем мобильное приложение посредством SQL-запросов.
 
-[Ритейл — Анализ программы лояльности](https://github.com/akirionenko/yandex_praktikum_project/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/1%20retail.ipynb;
+[Ритейл — Анализ программы лояльности](https://github.com/akirionenko/yandex_praktikum_project/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/1%20retail.ipynb);
 
 [А/В тестирование](https://github.com/akirionenko/yandex_praktikum_project/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/2%20ab_test_1.3.ipynb);
 
