@@ -57,7 +57,7 @@
 Навыки и инструменты - Python, Pandas, Seaborn, Plotly, визуализация данных.
 
 
-## [Дашборд для Яндекс.Дзен](https://public.tableau.com/shared/PWM5NSB5W?:display_count=n&:origin=viz_share_link) 
+## [Дашборд для Яндекс.Дзен](https://public.tableau.com/views/FPretail/sheet2?:language=en-US&:display_count=n&:origin=viz_share_link)
 Разрабатываем и презентуем дашборд для анализа пользовательского взаимодействия в сервисе Яндекс.Дзен (Tableau Public
 
 Навыки и инструменты - Python, PostgreSQL, Tableau, продуктовые метрики, построение дашбордов.
