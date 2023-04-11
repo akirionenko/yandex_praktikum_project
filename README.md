@@ -59,7 +59,8 @@
 
 ## [Дашборд для Яндекс.Дзен](https://public.tableau.com/views/FPretail/sheet2?:language=en-US&:display_count=n&:origin=viz_share_link)
 [Презентация](https://docs.google.com/presentation/d/1sprlo-5wsoAdOU6sTlgv4d8TGQ4NREGKpPvsuMAVejo/edit#slide=id.p1)
-Разрабатываем и презентуем дашборд для анализа пользовательского взаимодействия в сервисе Яндекс.Дзен (Tableau Public
+
+Разрабатываем и презентуем дашборд для анализа пользовательского взаимодействия в сервисе Яндекс.Дзен (Tableau )
 
 Навыки и инструменты - Python, PostgreSQL, Tableau, продуктовые метрики, построение дашбордов.
 
